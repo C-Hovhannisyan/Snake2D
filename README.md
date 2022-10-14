@@ -1,2 +1,2 @@
 # Snake2D
-A simplified version of the famous game "Snake"
+A simplified 2D version of the famous game "Snake"
